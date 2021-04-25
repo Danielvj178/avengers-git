@@ -17,3 +17,6 @@
 * Vision
 * Wasp
 * Antman
+* Puerco araña la colita, redondita
+* Vamos
+* Vemos
