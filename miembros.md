@@ -17,5 +17,3 @@
 * Vision
 * Wasp
 * Antman
-* nuevi
-* 1 
